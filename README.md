@@ -5,5 +5,8 @@
 - <b>SQL</b>
   - [Practicing Triggers](https://github.com/epena527/Triggers-Practice)
   - [Practicing Views](https://github.com/epena527/Views)
+  - [Practicing Sub-query](https://github.com/epena527/Views)
+  
+ - <b>Azure Sentinel (SIEM)</b>
 
 
