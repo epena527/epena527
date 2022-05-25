@@ -7,6 +7,4 @@
   - [Practicing Views](https://github.com/epena527/Views)
   - [Practicing Sub-query](https://github.com/epena527/Sub-Query)
   
- - <b>Azure Sentinel (SIEM)</b>
-
 
